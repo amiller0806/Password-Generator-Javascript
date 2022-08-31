@@ -44,6 +44,13 @@ function generatePassword() {
   }
 
   console.log(userChoice)
+  var password = ""
+  for (let i = 0; i < passwordLength; i++) {
+    var index = Math.floor(Math.random() * userChoice.length)
+    password += userChoice[index]
+  }
+  return password
+
 
 }
 
