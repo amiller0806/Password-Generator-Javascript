@@ -61,7 +61,7 @@ You are required to submit the following for review:
 
 
 ## Video Demonstration of Deployed Application
-<iframe src="https://drive.google.com/file/d/19q9gkIIAOeolk-tVqrtXsxU0zeJIOWny/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/19q9gkIIAOeolk-tVqrtXsxU0zeJIOWny/preview
 
 ## URL to deployed application
 https://amiller0806.github.io/HTML-Advanced-CSS-Portfolio/ 
