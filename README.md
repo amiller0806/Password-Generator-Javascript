@@ -59,14 +59,14 @@ You are required to submit the following for review:
 ## Sample view of deployed application on an iPhone 4 screen 
 ![Sample view of header, nav bar, hero image, & About Me Section on Iphone 8 screen](assets/images/iphone4-screenshot.jpg)
 
-
 ## Video Demonstration of Deployed Application
-https://drive.google.com/file/d/19q9gkIIAOeolk-tVqrtXsxU0zeJIOWny/preview
+Video showing the user going through the application. The user chooses to include special characters and lowercase letters in the password. When the user finishes going through the confirm messages regarding the types of characters the user wishes to include in their password, the application generates a password.
+https://drive.google.com/file/d/1Wmdotb74W4QLmTDWIbPjs_pbHwRcUD9m/preview
 
 ## URL to deployed application
-https://amiller0806.github.io/HTML-Advanced-CSS-Portfolio/ 
+https://amiller0806.github.io/Password-Generator-Javascript/ 
 
 ## Link to repository
-https://github.com/amiller0806/HTML-Advanced-CSS-Portfolio.git 
+https://github.com/amiller0806/Password-Generator-Javascript 
 
 © 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
